@@ -44,7 +44,7 @@ logo = """
     \_/    |_|\_\
  
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mVikrant
 \033[1;96mYouTube \033[1;93m: \033[1;92mAnonymous Vikrant
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/darkvikrant/D4RKV1KR4N7
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/DARK.ANONYMOUS.VIKRANT
